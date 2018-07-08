@@ -1,0 +1,15 @@
+#P1{
+    font-style: italic;
+    font-size: 45px;
+    color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#P2{
+    font-style: italic;
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+    color: brown;
+    border: 4px double orange;
+}
